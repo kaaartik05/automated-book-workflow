@@ -44,7 +44,7 @@ automated-book-workflow/
 
 ## Demo Video
 
-Link to demo video: [Add your link here]
+Link to demo video: https://www.loom.com/share/05793ccb289549d9a3667f21cd874a75?sid=e64c547b-45d8-4629-8eb6-8d904a86b5fc
 
 ---
 

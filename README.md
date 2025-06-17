@@ -52,9 +52,3 @@ Link to demo video: [Add your link here]
 
 Name: Kartik  
 GitHub: https://github.com/kaaartik05
-
----
-
-## Note
-
-This project was created solely for evaluation purposes. Soft-Nerve has no commercial interest in the tool or its output.
